@@ -1,0 +1,2 @@
+Wykresy wskazują, że warunki początkowe nie mają aż tak dużego znaczenia w rozwiązywaniu tego rówania. Można zauważyć natomiast, że mają znaczenie jeśli chodzi o wybieranie
+odpowiedniej ilości kroków do rozwiązania rówania. Zbyt mała ilość kroków powoduje, że wykres może nie być czytelny.
